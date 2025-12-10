@@ -5,6 +5,7 @@
             "changelog": "Runtime update helper and stability fixes.",
             "files": [
                 "modules/commands/update.js",
+                "modules/commands/bot.js",
                 "update.json"
             ]
         }
