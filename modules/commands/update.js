@@ -185,7 +185,7 @@ module.exports.handleReply = async ({ api, message, replyData }) => {
                     let pushedCount = 0;
                     for (const filePath of updatedFiles) {
                         const contentBase64 = fileContents[filePath];
-                        await pushToGitHub(token, owner, repo, filePath, contentBase64, `Auto-update to v${remoteManifest.version}`);
+                        await pushToGitHub(token, owner, repo, filePath, contentBase64, `Auto-update to v${updatePlan.targetVersion}`);
                         pushedCount++;
                     }
                     reportMsg += `\n\n☁️ GitHub Sync: ${pushedCount} files pushed.`;
