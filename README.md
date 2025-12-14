@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Soft Gradient Header with Smooth Wave -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=180&section=header&text=PRIYANSHU%20FB%20BOT&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=45&fontFamily=Black%20Ops%20One" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=24&height=180&section=header&text=PRIYANSHU%20FB%20BOT&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=45" width="100%" />
 
 <!-- Animated Gradient Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
@@ -501,35 +501,27 @@ MongoDB models keep track of threads, users, anti-change locks, and currency sta
 <br><br>
 
 <!-- Animated Social Icons with Hover Effect -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://facebook.com/priyanshu.rajput.official" target="_blank">
-        <img src="https://files.catbox.moe/sdxsnp.gif" alt="Facebook" width="48" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://instagram.com/pri_yanshu12" target="_blank">
-        <img src="https://files.catbox.moe/mfoqbf.gif" alt="Instagram" width="48" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://t.me/priyanshrajput" target="_blank">
-        <img src="https://files.catbox.moe/l9297f.gif" alt="Telegram" width="48" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://gitlab.com/priyanshufsdev" target="_blank">
-        <img src="https://files.catbox.moe/w35fa3.gif" alt="GitLab" width="48" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/priyanshufsdev" target="_blank">
-        <img src="https://cdnl.iconscout.com/lottie/premium/thumb/github-logo-animation-gif-download-10490199.gif" alt="GitHub" width="48" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://facebook.com/priyanshu.rajput.official" target="_blank">
+    <img src="https://files.catbox.moe/sdxsnp.gif" alt="Facebook" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/pri_yanshu12" target="_blank">
+    <img src="https://files.catbox.moe/mfoqbf.gif" alt="Instagram" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://t.me/priyanshrajput" target="_blank">
+    <img src="https://files.catbox.moe/l9297f.gif" alt="Telegram" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://gitlab.com/priyanshufsdev" target="_blank">
+    <img src="https://files.catbox.moe/w35fa3.gif" alt="GitLab" width="48" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/priyanshufsdev" target="_blank">
+    <img src="https://cdnl.iconscout.com/lottie/premium/thumb/github-logo-animation-gif-download-10490199.gif" alt="GitHub" width="48" />
+  </a>
+</p>
 
 <br><br>
 
