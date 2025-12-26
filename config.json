@@ -1,5 +1,5 @@
 {
-  "mongoURI": "",
+  "mongoURI": "mongodb+srv://<db_username>:<db_password>@raj.7vz2eta.mongodb.net/?appName=RAJ",
   "ownerID": "100037743553265",
   "adminIDs": [
     "100037743553265",
